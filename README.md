@@ -4,6 +4,19 @@ This workshop guides you through the process of obtaining testnet ETH, acquiring
 
 ---
 
+## 🎁 Want EigenLayer Stickers & T-Shirts?
+
+✅ Scan the QR Code, click pics and post it  
+      **OR**  
+📲 Tweet about the workshop  
+🧠 Tag: [@eigenlayer](https://twitter.com/eigenlayer), [@Vikash_8090_b](https://twitter.com/Vikash_8090_b), [@zk_genesis](https://twitter.com/zk_genesis)  
+🏷️ Use hashtag: **#EigenAlphaVikash**  
+🎉 Only those who post will be eligible for goodies!
+
+
+<img width="500" height="500" alt="adobe-express-qr-code" src="https://github.com/user-attachments/assets/d6b270b9-f013-478a-8e16-713fe15013f5" />
+
+
 ## Prerequisites
 
 Before starting, ensure you have:
