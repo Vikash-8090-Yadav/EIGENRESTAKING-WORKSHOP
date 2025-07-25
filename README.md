@@ -17,8 +17,6 @@ This workshop guides you through the process of obtaining testnet ETH, acquiring
 <img width="500" height="500" alt="adobe-express-qr-code" src="https://github.com/user-attachments/assets/d6b270b9-f013-478a-8e16-713fe15013f5" />
 
 
-## Presentation Link: https://docs.google.com/presentation/d/15NEPuOd_G_mf4ymFNlT9lhDzW_GJaR6i-gJVBqoU0dQ/edit?usp=sharing
-
 
 ## Prerequisites
 
@@ -82,3 +80,4 @@ Deposit your LSTs into EigenLayer on the Holesky testnet.
 ## Additional Resources
 
 - [EigenLayer Documentation](https://docs.eigencloud.xyz/products/eigenlayer/restakers/restaking-guides/testnet/obtaining-testnet-eth-and-liquid-staking-tokens-lsts)
+- [Restaking Presentation]( https://docs.google.com/presentation/d/15NEPuOd_G_mf4ymFNlT9lhDzW_GJaR6i-gJVBqoU0dQ/edit?usp=sharing)
