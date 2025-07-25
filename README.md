@@ -17,6 +17,9 @@ This workshop guides you through the process of obtaining testnet ETH, acquiring
 <img width="500" height="500" alt="adobe-express-qr-code" src="https://github.com/user-attachments/assets/d6b270b9-f013-478a-8e16-713fe15013f5" />
 
 
+## Presentation Link: https://docs.google.com/presentation/d/15NEPuOd_G_mf4ymFNlT9lhDzW_GJaR6i-gJVBqoU0dQ/edit?usp=sharing
+
+
 ## Prerequisites
 
 Before starting, ensure you have:
